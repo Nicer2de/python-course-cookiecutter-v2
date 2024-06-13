@@ -1,4 +1,5 @@
 """Test that the cookiecutter template is valid."""
+
 from pathlib import Path
 
 
